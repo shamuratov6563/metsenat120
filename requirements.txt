@@ -4,3 +4,4 @@ django-filter
 python-dotenv
 django-jazzmin
 djangorestframework-simplejwt
+
